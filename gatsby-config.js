@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Jorge's Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Jorge Herrera`,
+      summary: `Passionate about technology, crazy about my family, future dad of Valentina.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://jorgeherrera.info`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `jorgeherrera1`,
     },
   },
   plugins: [
