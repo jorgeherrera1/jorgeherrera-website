@@ -12,7 +12,7 @@ module.exports = {
     title: `Jorge's Blog`,
     author: {
       name: `Jorge Herrera`,
-      summary: `Passionate about technology, crazy about my family, future dad of Valentina.`,
+      summary: `passionate about technology, crazy about my family, future dad of Valentina.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://jorgeherrera.info`,
