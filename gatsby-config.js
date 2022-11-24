@@ -14,7 +14,7 @@ module.exports = {
       name: `Jorge Herrera`,
       summary: `passionate about technology, crazy about my family, future dad of Valentina.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Jorge Herrera's blog`,
     siteUrl: `https://jorgeherrera.info`,
     social: {
       twitter: `jorgeherrera1`,
@@ -110,7 +110,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
+        name: `Jorge Herrera's Blog`,
         short_name: `Gatsby`,
         start_url: `/`,
         background_color: `#ffffff`,
