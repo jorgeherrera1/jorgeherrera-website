@@ -13,7 +13,7 @@ And the web continued to evolve and we could develop apps that would render in m
 
 But now think about web applications today. Most of them are a real piece of engineering. Despite SPAs being 'cool' they had the little problem that some of them were not searchable by Google (and other search engines) (because all the SPA content was generated upon user interaction) producing poor SEO rankings.
 
-And then we started talking about Server-Side rendering. Wait! Is that not the way apps were created before with PHP? SSR is just a prettier name for something that has existed for years with the only difference that now it's being written in JavaScript. Purists will say I'm wrong but I'm not.
+And then we started talking about Server-Side rendering. Wait! Is that not the way apps were created before with PHP? SSR is just a prettier name for something that has existed for years with the only difference that now it's being written in JavaScript. Purists will say I'm wrong because it involves more complex stuff like hydration, but all it really is a page generated in the server before it is sent out to the browser, just like in the old PHP days.
 
 So with SSR, now we could obtain better SEO rankings but we got into other engineering problems such as hydration, slower page loads, and the fact that the DOM truly only exists in the browser. But JavaScript, frameworks and tooling only got better and better. So on one hand we have some very interesting and challenging problems and on the other we have an amazing web ecosystem to find the way around it.
 
